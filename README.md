@@ -16,4 +16,4 @@ Binary Search Tree
 Heap
 Hashing
 Graph
-Matrix
+Dynamic Programming
